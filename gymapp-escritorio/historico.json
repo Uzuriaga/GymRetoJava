@@ -1,0 +1,20 @@
+[
+  {
+    "historicoId": "h1",
+    "usuarioId": "u1",
+    "workoutId": "w1",
+    "fecha": "2025-10-15",
+    "tiempoTotal": 1800,
+    "tiempoPrevisto": 1800,
+    "porcentajeCompletado": 100
+  },
+  {
+    "historicoId": "h2",
+    "usuarioId": "u1",
+    "workoutId": "w2",
+    "fecha": "2025-10-16",
+    "tiempoTotal": 1500,
+    "tiempoPrevisto": 1600,
+    "porcentajeCompletado": 94
+  }
+]

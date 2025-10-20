@@ -1,0 +1,20 @@
+[
+  {
+    "usuarioId": "u1",
+    "nombre": "Ana García",
+    "fnacimiento": "1992-06-14",
+    "email": "ana@gmail.com",
+    "tipoUsuario": "CLIENTE",
+    "nivel": 0,
+    "passwordHash": "$2a$12$bGv.AccKe0cPdWodgQPxbO7l.nGWHvfq293hCusTO3YS7/Oif2bQ."
+  },
+  {
+    "usuarioId": "u2",
+    "nombre": "Luis Pérez",
+    "fnacimiento": "1993-03-05",
+    "email": "luis@gmail.com",
+    "tipoUsuario": "ENTRENADOR",
+    "nivel": 2,
+    "passwordHash": "$2a$12$mGXCFOoqSfr8G9QWNKflc.Uuq.WvJsJN5vjOQfgsHu9yNwWo9eoHO"
+  }
+]

@@ -1,0 +1,14 @@
+[
+  {
+    "workoutId": "w1",
+    "nombre": "Full Body",
+    "nivel": 0,
+    "videoUrl": "https://video.com/fullbody"
+  },
+  {
+    "workoutId": "w2",
+    "nombre": "Cardio Express",
+    "nivel": 1,
+    "videoUrl": "https://video.com/cardio"
+  }
+]

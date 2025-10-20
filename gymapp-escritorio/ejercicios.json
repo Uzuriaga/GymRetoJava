@@ -1,0 +1,37 @@
+[
+  {
+    "ejercicioId": "ej1",
+    "nombre": "Sentadillas",
+    "descripcion": "Ejercicio para piernas",
+    "series": [
+      {
+        "nombre": "Serie 1",
+        "repeticiones": 15,
+        "fotoUrl": "https://foto.com/sentadilla1",
+        "tiempo": 30,
+        "descanso": 60
+      },
+      {
+        "nombre": "Serie 2",
+        "repeticiones": 12,
+        "fotoUrl": "https://foto.com/sentadilla2",
+        "tiempo": 30,
+        "descanso": 60
+      }
+    ]
+  },
+  {
+    "ejercicioId": "ej2",
+    "nombre": "Flexiones",
+    "descripcion": "Ejercicio para pecho",
+    "series": [
+      {
+        "nombre": "Serie 1",
+        "repeticiones": 10,
+        "fotoUrl": "https://foto.com/flexion1",
+        "tiempo": 20,
+        "descanso": 40
+      }
+    ]
+  }
+]
